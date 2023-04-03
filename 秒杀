@@ -1,0 +1,9 @@
+192.168.46.128 db-server
+192.168.46.128 redis-server
+192.168.46.128 zk-server
+192.168.46.128 kafka-server
+192.168.46.128 nacos-server
+192.168.46.128 es-server
+192.168.46.128 canal-server
+192.168.46.128 seata-server
+192.168.46.128 druid-server
